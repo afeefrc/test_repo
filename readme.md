@@ -6,3 +6,5 @@
 ## Test line
 
 ## line added locally
+
+## Line added in cloud
